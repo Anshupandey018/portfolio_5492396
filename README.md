@@ -1,16 +1,30 @@
-# portfolio_5492396
+Anshu Pandey
+Email: anshu.pandey@mnd.thm.de
 
-A new Flutter project.
+a. Diese App ist ein Portfolio für GUI, erstellt mit Flutter. Ich hab flutter version Flutter: 3.16.0 und Dart 3.7.2. 
 
-## Getting Started
+-Um das Projekt zu starten, stelle sicher, dass Flutter korrekt installiert ist. Danach führe folgende Schritte aus:
+Repository klonen:
+git clone <repo-url>
 
-This project is a starting point for a Flutter application.
+In das Projektverzeichnis wechseln:
+cd projektname
 
-A few resources to get you started if this is your first Flutter project:
+Abhängigkeiten installieren:
+flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+App starten:
+flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
+
+
+
+
+
+b. Unsere Git-Branching-Strategie ist einfach und übersichtlich: Für jede neue Aufgabe oder Funktion erstellen wir einen eigenen Branch. Dafür wechseln wir in das Haupt-Repository (meist main oder develop) und erstellen mit dem Befehl git checkout -b Branch Name einen neuen Branch. So bleibt die Hauptentwicklung stabil, und Änderungen können in Ruhe entwickelt und später per Merge Request überprüft und zusammengeführt werden.
